@@ -1,11 +1,5 @@
-The commands to compile:
-1.cd SearchUSA to enter the SearchUSA folder.
-2.javac *.java
-
-
-The commands to run the code:
-1. cd ../ to enter the folder which contains SearchUSA folder
-2. java SearchUSA.SearchUSA searchtype srccityname destcityname
+main function parameters:
+searchtype srccityname destcityname
 
 (Search type contains : Astar, Greedy, DynamicProgramming, not case sensitive)
 (City name is case sensitive)
