@@ -7,9 +7,9 @@ public class Experiments {
     public static void main(String[] args) {
         Map map = new Map();
         map.Initialize();
-        //Astar_Experiment(map);
-        //Astar_Study_Output(map);
-        //Compare_Three_Search_Methods(map);
+        Astar_Experiment(map);
+        Astar_Study_Output(map);
+        Compare_Three_Search_Methods(map);
     }
 
     public static void Astar_Experiment(Map map) {
