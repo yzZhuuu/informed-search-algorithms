@@ -5,4 +5,4 @@ Actually it's one of my homework, put it here for learning purpose. Anyway, it h
 
 For the warriors who see this project, pls walk all over it and help improve! Wish you can pick up money on the road :)
 
-And for the student who intends to copy paste my code, leave your name! I'm gonna tell the dear dear professor :(
+And for the students who intend to copy paste my code, leave your name! I'm gonna tell the dear dear professor :(
